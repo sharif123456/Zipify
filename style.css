@@ -1,0 +1,229 @@
+body{font-family: 'Montserrat', sans-serif !important;}
+
+.navbar{box-shadow: 0 0 0 1px black;}
+.navbar-brand img{width: 129px;}
+.header1{
+    background: #417DCD;
+}
+.nav-link{
+    color: #545252!important;
+    font-size: 16px;
+    font-weight: 300;
+    text-underline-position: under;
+}
+.nav-link:hover{
+    color: #76D766!important;
+}
+.banner{padding-top: 130px;padding-bottom: 30px;}
+.banner img{width: 600px;}
+.banner h1{
+    color: white;
+    font-size: 43px;
+    font-style: italic;
+    font-weight: 500;
+}
+.box2{padding-top: 20px;}
+.banner ul li{
+
+color: white;
+
+font-weight: 600;
+
+line-height: 2;
+
+font-size: 16px;
+}
+
+.btn{
+    border-color: #3BB44A;
+    background: #3BB44A!important;
+    padding: 13px 70px;
+    margin-left: 95px;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+}
+.btn:hover{
+    background: transparent;
+    color: white!important;
+}
+
+.quote-section{
+    background: #8080801f;
+}
+.quote-section h1{
+    color: #3BB44A;
+    word-spacing: -3px;
+}
+.quote-section p{
+    font-size: 17px;
+    font-weight: 500;
+    color: gray;
+    line-height: 31px;
+    word-spacing: 2px;
+}
+.quote-section .btn{
+    border-color: #3BB44A;
+    background: #3BB44A;
+    padding: 13px 79px;
+    margin-left: 22px;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 13px;
+}
+.quote-section .btn:hover{background: transparent!important;color: #3BB44A!important;}.product-section{}
+.heading{ text-align: center; }
+.heading h1{
+    font-size: 34px;
+    font-weight: 500;
+}
+.product-section{padding-top: 33px;padding-bottom: 200px;}
+.product-section p{
+    font-size: 17px;
+    padding: 5px 79px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.product-section img{    padding: 16px 0;
+    max-width: 100%;
+}
+.product-section button{}
+.box{
+        margin-bottom: 20px;
+    border: 1px solid;
+    padding: 62px 0px;
+    justify-content: center;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    background: #e2e2e226;
+}
+}
+.product-section .btn-start{
+    border-color: #3BB44A;
+    background: #5AC067!important;
+    padding: 13px 61px;
+    margin-left: 84px;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 13px;
+}
+.product-section .btn-start:hover{
+    background: transparent!important;
+    color: #3BB44A!important;}
+
+
+footer{
+    background: #8080801f;
+}
+footer ul li{
+    list-style: none;
+    line-height: 2.5;
+}
+
+ .title{
+    font-weight: 600;
+    font-size: 27px;
+}    
+
+.product-header{
+    box-shadow: 3px 7px 0px 8px black;
+}
+
+.product-banner{
+    padding: 96px 0px;
+    margin-top: 64px;
+}
+.product-banner img{
+    padding-left: 31px;
+}
+.product-banner h1{
+    color: #3BB44A;
+    font-size: 45px!important;
+    font-weight: 600;
+}
+.product-banner p{
+    font-size: 20px;
+}
+
+
+.about-section{
+    /* padding: 121px 0; */
+    /* margin-top: 20px; */
+    background: #80808029;
+}
+.about-section h1{
+    font-size: 34px;
+    font-weight: 600;
+}
+.about-section p{
+    font-size: 15px;
+    font-weight: 400;
+    word-spacing: 1px;
+    padding-bottom: 30px;
+    background: #80808036;
+}
+.about-section img{
+    width: 269px;
+    margin-top: 36px;
+}
+.blog-content{
+    width: 900px;
+}
+
+.about-section2{
+    background: white;
+    padding-top: 100px;
+}
+.about-section2 h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.about-section2 p{
+    font-size: 21px;
+    font-weight: 400;
+    word-spacing: 1px;
+    padding-right: 63px;
+}
+.about-section2 img{
+    height: 588px;
+}
+
+.contact-section{background-image:url(images/000.jpg);height: 600px;background-size: cover;padding: 50px 0;margin-top: 60px;background-position: right;}
+.contact-section img{
+    height: 50px;
+    margin: 40px 0;
+    padding-left: 15px;
+}
+.contact-section p{
+    width: 272px;
+    margin-left: 40px;
+    font-size: 16px;
+}
+.contact-section a{}
+
+.blog{
+    padding-top: 40px;
+    margin-top: 67px;
+}
+.blog img{max-width: 100%;}
+
+.blog-title{
+    background: #d4cbcbba;
+    padding-right: 60px;
+}
+.blog-title .btn{
+    background: #fdfcfc78!important;
+    border-color: #fbf8f8d1;
+    color: black!important;
+    padding: 11px 20px;
+}
+.blog-title .btn:hover{
+    color: red!important;
+}
+.see-more .btn{
+    margin: 50px 1px;
+}
+.see-more .btn:hover{}
